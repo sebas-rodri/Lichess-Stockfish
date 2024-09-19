@@ -11,4 +11,4 @@ Note: Do not use to cheat! Cheating is unsportsmanlike and will get you banned!
 * [Lichess Token](https://lichess.org/account/oauth/token)
 
 
-Having multiple games running on the same account can lead to bugs!
+Not able to run more than one game at the same time for the same account.
